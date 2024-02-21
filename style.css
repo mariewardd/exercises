@@ -1,0 +1,33 @@
+.poiret-one-regular{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+    background-color: rgb(129, 150, 129);
+  }
+  body{
+    color: black;
+    background-color: rgb(158, 186, 158);
+  }
+  .container{
+    padding-top: 200px;
+    width: 40%;
+    margin:auto;
+  }
+  a{
+    color:black;
+    font-family: "Poiret One", sans-serif;
+  }
+  a:visited{
+    color:rgb(56, 98, 56);
+  }
+  li{
+    color:rgb(205, 222, 205);
+    list-style:disc;
+  }
+  h1{
+    font-family: "Poiret One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: rgb(205, 222, 205);
+  }

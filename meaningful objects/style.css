@@ -1,0 +1,58 @@
+body{
+    font-family: 'Roboto Slab', serif;
+    background-color: rgb(113, 155, 113);
+    color:antiquewhite;
+}
+h1{
+    font-family: 'Roboto Slab', serif;
+    font-size:x-large;
+    color: antiquewhite;
+    position: absolute;
+    top: 20px;
+    left: 310px;
+}
+
+a{
+    color: white;
+}
+
+a:visited{
+    color: rgb(160, 100, 100);
+}
+a:hover{
+    color: rgb(0, 0, 0);
+}
+
+.musicbox{
+    position: absolute;
+    top: 75px;
+    left: 325px;
+}
+.incense{
+    position: absolute;
+    top: 250px;
+    left: 575px;
+}
+.recordplayer{
+    position: absolute;
+    top: 470px;
+    left: 450px;
+}
+.avocado{
+    position: absolute;
+    top: 500px;
+    left: 200px;
+}
+.matcha{
+    position: absolute;
+    top: 250px;
+    left: 120px;
+}
+
+.description{
+    position: static;
+    padding-top: 300px;
+    margin: auto;
+    width: 200px;
+    text-align: center;
+}
