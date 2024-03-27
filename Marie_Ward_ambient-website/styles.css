@@ -14,8 +14,8 @@ body{
     flex-wrap:wrap-reverse;
     border-radius: 50%;
     display: inline-flex;
-    width: 200px;
-    height: 200px;
+    width: 300px;
+    height: 300px;
     animation-name: colorfade;
     animation-fill-mode:both;
     animation-direction:alternate-reverse;
